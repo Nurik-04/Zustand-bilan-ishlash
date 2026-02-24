@@ -23,7 +23,7 @@ const Header = () => {
           Cards
         </NavLink>
         <NavLink to="/favorites" className={linkStyle}>
-          Favorites  {favorites.length}
+          Favorites  {favorites.length} 🛒
         </NavLink>
       </nav>
     </header>
